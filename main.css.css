@@ -1,0 +1,47 @@
+html {
+    background: #2e516b;
+    background-image:url(.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	margin-right: 100px
+    -webkit-font-smoothing: antialiased;
+}
+
+
+body {
+    background: #cdcfd1;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+
+}
+
+
+.avatar{
+    border-radius: 50%
+}
+
+
+.solid_left {
+    border-color:#cdcfd1; 
+    box-shadow: 0 0 0 8px #cdcfd1, 0 0 0 9px #cdcfd1;
+    background: #cdcfd1;
+    width: 50%;
+}
+
+
+}
+
+h1, h2{
+    color: #000;
+    font-weight: 600;
+    line-height: 20;
+
+	
+	
+	
